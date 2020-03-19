@@ -1,0 +1,19 @@
+{
+	"name": "clipboard-watcher",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:imeoer/clipboard-watcher.git"
+	},
+	"author": "imeoer <imeoer@gmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"ffi-napi": "^2.4.7",
+		"objc": "git+https://github.com/nsofnetworks/objc.git#2f8103d"
+	}
+}
